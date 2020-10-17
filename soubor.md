@@ -1,2 +1,1 @@
 ahoj
-další ahoj
